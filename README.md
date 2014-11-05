@@ -15,6 +15,8 @@
 
 ##4/Noviembre/2014
 ___
+###Profe ahi meti el proyecto en netbeans en un .rar, cualquier cosa
+___
     Empleando como base la implementación en Java vista en clase, utilice algoritmos genéticos para resolver los siguientes problemas:
     
     a) Resuelva el “problema de la mochila” que ya se ha estudiado en clase.
